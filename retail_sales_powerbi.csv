@@ -1,0 +1,301 @@
+Date,Product,Category,City,Qty,Sales,Profit,Channel
+2026-01-01,Webcam,Accessories,Delhi,4,13952,2496,Online
+2026-01-01,Keyboard,Accessories,Hyderabad,4,7072,1557,Retail Store
+2026-01-02,Speaker,Audio,Hyderabad,4,15772,3247,Online
+2026-01-02,Headphones,Audio,Pune,2,4504,1143,Online
+2026-01-03,Speaker,Audio,Hyderabad,3,13116,2590,Retail Store
+2026-01-03,Tablet,Computers,Bengaluru,2,8234,1879,Retail Store
+2026-01-03,Webcam,Accessories,Delhi,4,13964,2973,Retail Store
+2026-01-04,Laptop,Computers,Bengaluru,5,234130,64283,Online
+2026-01-04,Tablet,Computers,Hyderabad,1,4243,615,Online
+2026-01-04,Webcam,Accessories,Delhi,4,12556,1959,Online
+2026-01-06,Tablet,Computers,Chennai,1,4239,534,Retail Store
+2026-01-06,Laptop,Computers,Delhi,2,99196,19215,Online
+2026-01-07,Headphones,Audio,Mumbai,4,10616,2272,Online
+2026-01-08,Monitor,Displays,Delhi,5,70755,13057,Online
+2026-01-08,Headphones,Audio,Mumbai,4,9760,2615,Online
+2026-01-09,Monitor,Displays,Pune,3,41583,11602,Online
+2026-01-09,Laptop,Computers,Pune,4,199632,38142,Online
+2026-01-10,Tablet,Computers,Pune,3,11718,1722,Retail Store
+2026-01-10,Keyboard,Accessories,Hyderabad,2,3256,810,Online
+2026-01-12,Tablet,Computers,Hyderabad,3,12945,3329,Retail Store
+2026-01-12,Speaker,Audio,Chennai,5,20350,3053,Retail Store
+2026-01-12,Webcam,Accessories,Hyderabad,3,9456,1331,Online
+2026-01-12,Tablet,Computers,Hyderabad,4,14760,2863,Retail Store
+2026-01-13,Keyboard,Accessories,Bengaluru,3,4992,1445,Retail Store
+2026-01-13,Webcam,Accessories,Mumbai,3,10149,2533,Retail Store
+2026-01-13,Tablet,Computers,Pune,3,11376,3351,Online
+2026-01-14,Speaker,Audio,Hyderabad,2,8170,1618,Retail Store
+2026-01-14,Laptop,Computers,Bengaluru,4,226732,42036,Retail Store
+2026-01-15,Headphones,Audio,Bengaluru,4,10456,2847,Online
+2026-01-15,Laptop,Computers,Bengaluru,2,99142,26464,Retail Store
+2026-01-15,Monitor,Displays,Bengaluru,2,31176,4867,Online
+2026-01-15,Monitor,Displays,Bengaluru,5,65815,14677,Retail Store
+2026-01-16,Headphones,Audio,Hyderabad,4,9820,2151,Retail Store
+2026-01-17,Laptop,Computers,Pune,2,99388,24516,Online
+2026-01-17,Mouse,Accessories,Chennai,3,3819,645,Online
+2026-01-17,Keyboard,Accessories,Delhi,5,8110,2024,Online
+2026-01-18,Headphones,Audio,Hyderabad,3,8115,2309,Retail Store
+2026-01-18,Monitor,Displays,Bengaluru,3,47172,10725,Retail Store
+2026-01-19,Headphones,Audio,Pune,2,4906,682,Retail Store
+2026-01-20,Speaker,Audio,Bengaluru,3,11562,1953,Online
+2026-01-21,Tablet,Computers,Mumbai,2,7706,1917,Retail Store
+2026-01-21,Speaker,Audio,Pune,1,3651,583,Online
+2026-01-22,Webcam,Accessories,Hyderabad,1,3188,552,Online
+2026-01-22,Speaker,Audio,Chennai,2,7606,1961,Retail Store
+2026-01-23,Mouse,Accessories,Mumbai,4,4572,1258,Online
+2026-01-23,Webcam,Accessories,Bengaluru,3,10038,2297,Retail Store
+2026-01-23,Webcam,Accessories,Chennai,2,6598,1950,Retail Store
+2026-01-24,Speaker,Audio,Mumbai,4,15844,3708,Retail Store
+2026-01-24,Monitor,Displays,Bengaluru,4,63388,7666,Retail Store
+2026-01-25,Headphones,Audio,Bengaluru,5,13710,3321,Retail Store
+2026-01-25,Headphones,Audio,Hyderabad,2,4928,672,Online
+2026-01-25,Webcam,Accessories,Mumbai,5,16070,3954,Online
+2026-01-26,Monitor,Displays,Chennai,1,15310,2044,Online
+2026-01-27,Tablet,Computers,Hyderabad,1,3783,514,Retail Store
+2026-01-27,Laptop,Computers,Bengaluru,2,111590,21911,Retail Store
+2026-01-27,Tablet,Computers,Delhi,1,3631,859,Retail Store
+2026-01-28,Mouse,Accessories,Delhi,1,1085,197,Online
+2026-01-29,Webcam,Accessories,Pune,2,5762,1388,Retail Store
+2026-01-29,Tablet,Computers,Bengaluru,4,16476,4340,Online
+2026-01-30,Webcam,Accessories,Chennai,5,15640,2981,Retail Store
+2026-01-30,Mouse,Accessories,Mumbai,3,3513,925,Retail Store
+2026-01-30,Monitor,Displays,Bengaluru,2,29676,4911,Online
+2026-01-31,Webcam,Accessories,Hyderabad,2,6338,1289,Online
+2026-01-31,Webcam,Accessories,Mumbai,3,9762,1986,Online
+2026-01-31,Monitor,Displays,Delhi,2,28200,7025,Online
+2026-02-02,Monitor,Displays,Bengaluru,4,55756,13600,Online
+2026-02-03,Mouse,Accessories,Bengaluru,3,3864,551,Online
+2026-02-03,Tablet,Computers,Chennai,1,3865,891,Online
+2026-02-03,Monitor,Displays,Pune,4,61308,15961,Retail Store
+2026-02-04,Webcam,Accessories,Delhi,3,8901,2307,Online
+2026-02-04,Tablet,Computers,Mumbai,4,16504,4821,Online
+2026-02-05,Webcam,Accessories,Delhi,1,2909,435,Retail Store
+2026-02-06,Laptop,Computers,Delhi,4,207668,27159,Retail Store
+2026-02-06,Webcam,Accessories,Hyderabad,1,2894,652,Retail Store
+2026-02-08,Tablet,Computers,Pune,3,12390,2917,Online
+2026-02-09,Speaker,Audio,Chennai,1,4112,891,Online
+2026-02-09,Headphones,Audio,Pune,1,2505,392,Retail Store
+2026-02-11,Keyboard,Accessories,Mumbai,1,1874,461,Retail Store
+2026-02-11,Keyboard,Accessories,Delhi,1,1743,487,Online
+2026-02-11,Monitor,Displays,Chennai,4,59004,10795,Online
+2026-02-11,Mouse,Accessories,Chennai,1,1127,287,Retail Store
+2026-02-12,Headphones,Audio,Hyderabad,1,2435,688,Retail Store
+2026-02-12,Keyboard,Accessories,Mumbai,5,9110,2094,Retail Store
+2026-02-14,Speaker,Audio,Chennai,4,14492,3521,Online
+2026-02-14,Tablet,Computers,Hyderabad,3,11433,1475,Retail Store
+2026-02-15,Webcam,Accessories,Bengaluru,1,3201,903,Online
+2026-02-15,Webcam,Accessories,Pune,2,7016,1662,Retail Store
+2026-02-16,Keyboard,Accessories,Delhi,5,8455,2532,Online
+2026-02-16,Monitor,Displays,Chennai,3,40173,7029,Online
+2026-02-16,Laptop,Computers,Pune,4,212192,55813,Retail Store
+2026-02-17,Monitor,Displays,Chennai,5,67665,11637,Retail Store
+2026-02-17,Speaker,Audio,Mumbai,2,7792,1470,Online
+2026-02-18,Mouse,Accessories,Delhi,3,3387,776,Retail Store
+2026-02-18,Webcam,Accessories,Mumbai,5,16200,3586,Retail Store
+2026-02-18,Speaker,Audio,Chennai,1,4066,1215,Online
+2026-02-19,Mouse,Accessories,Mumbai,3,3924,813,Retail Store
+2026-02-20,Tablet,Computers,Delhi,3,12219,2551,Online
+2026-02-21,Mouse,Accessories,Delhi,4,4392,1067,Online
+2026-02-21,Speaker,Audio,Chennai,1,4296,632,Retail Store
+2026-02-22,Monitor,Displays,Hyderabad,5,67265,10573,Retail Store
+2026-02-22,Webcam,Accessories,Mumbai,5,15280,3705,Retail Store
+2026-02-23,Speaker,Audio,Delhi,3,11184,2445,Retail Store
+2026-02-24,Keyboard,Accessories,Bengaluru,4,6728,1999,Online
+2026-02-26,Speaker,Audio,Hyderabad,3,11229,1992,Retail Store
+2026-02-27,Keyboard,Accessories,Pune,5,8550,2522,Retail Store
+2026-02-28,Speaker,Audio,Mumbai,2,8566,2044,Online
+2026-03-01,Mouse,Accessories,Bengaluru,4,4828,1245,Online
+2026-03-01,Tablet,Computers,Hyderabad,3,10896,2800,Retail Store
+2026-03-02,Tablet,Computers,Hyderabad,3,11655,2806,Retail Store
+2026-03-03,Headphones,Audio,Mumbai,1,2641,694,Retail Store
+2026-03-03,Keyboard,Accessories,Pune,4,7000,853,Online
+2026-03-05,Webcam,Accessories,Pune,2,6076,1434,Retail Store
+2026-03-05,Keyboard,Accessories,Delhi,3,5340,895,Online
+2026-03-06,Tablet,Computers,Hyderabad,5,18290,4406,Online
+2026-03-08,Monitor,Displays,Mumbai,1,14950,4478,Retail Store
+2026-03-08,Keyboard,Accessories,Pune,2,3546,799,Retail Store
+2026-03-09,Monitor,Displays,Delhi,3,41985,8496,Retail Store
+2026-03-09,Tablet,Computers,Bengaluru,1,3613,477,Online
+2026-03-10,Headphones,Audio,Delhi,2,4870,1241,Online
+2026-03-10,Headphones,Audio,Pune,4,9928,1595,Online
+2026-03-12,Laptop,Computers,Hyderabad,2,111948,19516,Retail Store
+2026-03-12,Tablet,Computers,Mumbai,5,20435,2590,Online
+2026-03-12,Tablet,Computers,Chennai,1,4334,1069,Retail Store
+2026-03-12,Headphones,Audio,Delhi,1,2490,449,Retail Store
+2026-03-12,Monitor,Displays,Bengaluru,3,44670,5398,Online
+2026-03-12,Speaker,Audio,Mumbai,5,21660,5571,Retail Store
+2026-03-13,Tablet,Computers,Mumbai,5,21125,3774,Retail Store
+2026-03-13,Monitor,Displays,Pune,5,66980,8527,Retail Store
+2026-03-13,Tablet,Computers,Bengaluru,2,7566,1608,Online
+2026-03-14,Speaker,Audio,Hyderabad,1,4009,926,Online
+2026-03-15,Laptop,Computers,Delhi,5,274780,72483,Online
+2026-03-16,Mouse,Accessories,Chennai,4,4952,710,Retail Store
+2026-03-16,Laptop,Computers,Hyderabad,1,47067,7095,Retail Store
+2026-03-16,Webcam,Accessories,Bengaluru,4,12088,3130,Retail Store
+2026-03-18,Tablet,Computers,Pune,5,18690,4508,Online
+2026-03-18,Laptop,Computers,Chennai,3,152760,19677,Online
+2026-03-18,Tablet,Computers,Delhi,1,4377,704,Retail Store
+2026-03-19,Tablet,Computers,Delhi,1,3895,671,Online
+2026-03-19,Tablet,Computers,Chennai,3,12951,1601,Retail Store
+2026-03-20,Webcam,Accessories,Hyderabad,1,3365,631,Online
+2026-03-20,Keyboard,Accessories,Mumbai,2,3494,887,Retail Store
+2026-03-20,Monitor,Displays,Pune,3,44013,9114,Retail Store
+2026-03-21,Speaker,Audio,Delhi,1,3962,909,Online
+2026-03-21,Speaker,Audio,Chennai,1,4301,1186,Online
+2026-03-21,Mouse,Accessories,Bengaluru,2,2268,630,Online
+2026-03-22,Keyboard,Accessories,Mumbai,2,3316,666,Online
+2026-03-22,Speaker,Audio,Hyderabad,4,15840,3053,Retail Store
+2026-03-22,Mouse,Accessories,Mumbai,4,4948,1206,Retail Store
+2026-03-23,Tablet,Computers,Hyderabad,1,3950,969,Retail Store
+2026-03-23,Laptop,Computers,Chennai,3,148143,42199,Online
+2026-03-23,Tablet,Computers,Pune,5,20200,2688,Online
+2026-03-24,Tablet,Computers,Pune,1,3837,910,Online
+2026-03-25,Headphones,Audio,Bengaluru,5,11350,3069,Online
+2026-03-26,Monitor,Displays,Mumbai,2,29486,4891,Online
+2026-03-26,Keyboard,Accessories,Chennai,3,5097,807,Retail Store
+2026-03-28,Laptop,Computers,Pune,4,198368,53381,Online
+2026-03-28,Tablet,Computers,Mumbai,4,16200,4189,Retail Store
+2026-03-29,Keyboard,Accessories,Chennai,1,1893,302,Retail Store
+2026-03-30,Speaker,Audio,Pune,3,11949,3114,Retail Store
+2026-03-30,Tablet,Computers,Chennai,2,7728,1035,Online
+2026-03-31,Laptop,Computers,Delhi,2,110462,24945,Retail Store
+2026-03-31,Headphones,Audio,Mumbai,3,7383,1386,Retail Store
+2026-04-03,Webcam,Accessories,Mumbai,2,5814,914,Retail Store
+2026-04-04,Keyboard,Accessories,Pune,3,5697,1527,Online
+2026-04-06,Laptop,Computers,Hyderabad,4,218020,55967,Online
+2026-04-06,Mouse,Accessories,Pune,5,6595,1938,Retail Store
+2026-04-06,Headphones,Audio,Pune,1,2705,724,Retail Store
+2026-04-07,Speaker,Audio,Chennai,2,8614,1798,Retail Store
+2026-04-09,Keyboard,Accessories,Chennai,2,3780,854,Retail Store
+2026-04-11,Keyboard,Accessories,Bengaluru,3,5517,848,Retail Store
+2026-04-12,Tablet,Computers,Bengaluru,3,12840,3379,Retail Store
+2026-04-14,Tablet,Computers,Hyderabad,3,12600,1885,Online
+2026-04-14,Headphones,Audio,Pune,2,5106,791,Online
+2026-04-16,Keyboard,Accessories,Chennai,3,5796,1613,Retail Store
+2026-04-17,Monitor,Displays,Pune,5,66235,13970,Retail Store
+2026-04-18,Webcam,Accessories,Chennai,2,6254,1694,Online
+2026-04-19,Speaker,Audio,Bengaluru,4,16308,3644,Retail Store
+2026-04-19,Mouse,Accessories,Delhi,3,3828,1140,Online
+2026-04-20,Mouse,Accessories,Mumbai,5,6455,1296,Online
+2026-04-20,Monitor,Displays,Bengaluru,5,73465,19496,Online
+2026-04-22,Headphones,Audio,Delhi,3,6954,1031,Retail Store
+2026-04-24,Laptop,Computers,Bengaluru,2,112732,26029,Online
+2026-04-24,Speaker,Audio,Pune,4,17012,2282,Retail Store
+2026-04-24,Mouse,Accessories,Bengaluru,3,3384,935,Retail Store
+2026-04-27,Mouse,Accessories,Hyderabad,1,1303,193,Retail Store
+2026-04-27,Webcam,Accessories,Chennai,3,8991,1727,Retail Store
+2026-04-28,Speaker,Audio,Hyderabad,5,19300,3275,Retail Store
+2026-05-01,Headphones,Audio,Mumbai,1,2358,540,Online
+2026-05-02,Headphones,Audio,Pune,2,5450,1260,Online
+2026-05-03,Webcam,Accessories,Mumbai,2,6628,1190,Retail Store
+2026-05-03,Speaker,Audio,Mumbai,3,12528,2589,Online
+2026-05-04,Keyboard,Accessories,Delhi,3,5499,1267,Online
+2026-05-04,Mouse,Accessories,Pune,5,6520,1766,Online
+2026-05-06,Speaker,Audio,Bengaluru,4,15728,4265,Online
+2026-05-06,Webcam,Accessories,Bengaluru,2,6734,1627,Retail Store
+2026-05-06,Speaker,Audio,Pune,1,4144,677,Retail Store
+2026-05-07,Mouse,Accessories,Bengaluru,2,2402,491,Online
+2026-05-08,Keyboard,Accessories,Delhi,4,7120,1006,Online
+2026-05-09,Mouse,Accessories,Mumbai,4,4804,1120,Retail Store
+2026-05-10,Laptop,Computers,Bengaluru,2,97992,12145,Online
+2026-05-10,Speaker,Audio,Delhi,2,7372,1153,Retail Store
+2026-05-12,Laptop,Computers,Bengaluru,3,147006,41604,Online
+2026-05-13,Tablet,Computers,Chennai,4,14432,3941,Online
+2026-05-14,Webcam,Accessories,Mumbai,3,9297,2428,Retail Store
+2026-05-14,Keyboard,Accessories,Mumbai,1,1951,549,Retail Store
+2026-05-14,Mouse,Accessories,Chennai,3,3543,489,Online
+2026-05-14,Tablet,Computers,Bengaluru,2,8174,2125,Retail Store
+2026-05-15,Speaker,Audio,Bengaluru,2,7870,1854,Online
+2026-05-15,Keyboard,Accessories,Pune,3,5625,1083,Online
+2026-05-16,Keyboard,Accessories,Hyderabad,2,3598,816,Retail Store
+2026-05-16,Webcam,Accessories,Bengaluru,1,3450,884,Online
+2026-05-17,Webcam,Accessories,Pune,1,3120,734,Online
+2026-05-17,Keyboard,Accessories,Hyderabad,2,3938,1020,Online
+2026-05-18,Mouse,Accessories,Chennai,2,2300,389,Online
+2026-05-18,Mouse,Accessories,Delhi,4,5104,997,Retail Store
+2026-05-18,Webcam,Accessories,Pune,1,3393,991,Retail Store
+2026-05-19,Monitor,Displays,Chennai,1,15753,1958,Online
+2026-05-19,Laptop,Computers,Chennai,2,102112,22438,Retail Store
+2026-05-19,Monitor,Displays,Mumbai,1,13298,2418,Online
+2026-05-19,Monitor,Displays,Hyderabad,1,15052,2605,Retail Store
+2026-05-19,Mouse,Accessories,Mumbai,5,5710,1604,Online
+2026-05-20,Laptop,Computers,Chennai,2,109132,28747,Online
+2026-05-21,Tablet,Computers,Pune,5,20970,5407,Online
+2026-05-21,Mouse,Accessories,Bengaluru,4,5140,1131,Online
+2026-05-21,Headphones,Audio,Mumbai,2,4594,876,Online
+2026-05-21,Mouse,Accessories,Hyderabad,1,1217,232,Retail Store
+2026-05-21,Keyboard,Accessories,Pune,2,3606,942,Online
+2026-05-23,Headphones,Audio,Bengaluru,3,8184,998,Online
+2026-05-24,Laptop,Computers,Mumbai,5,243070,36174,Retail Store
+2026-05-24,Headphones,Audio,Bengaluru,1,2485,629,Retail Store
+2026-05-24,Tablet,Computers,Bengaluru,1,4092,988,Retail Store
+2026-05-25,Monitor,Displays,Delhi,4,54044,11994,Online
+2026-05-25,Monitor,Displays,Delhi,5,79140,18034,Online
+2026-05-26,Tablet,Computers,Bengaluru,4,16032,2083,Retail Store
+2026-05-26,Monitor,Displays,Delhi,1,14256,3226,Retail Store
+2026-05-27,Headphones,Audio,Bengaluru,1,2443,364,Online
+2026-05-27,Monitor,Displays,Pune,4,52460,6702,Online
+2026-05-28,Webcam,Accessories,Delhi,1,3330,805,Online
+2026-05-28,Mouse,Accessories,Bengaluru,2,2540,559,Retail Store
+2026-05-29,Mouse,Accessories,Mumbai,5,6155,1638,Online
+2026-05-30,Speaker,Audio,Mumbai,1,3959,901,Retail Store
+2026-05-30,Keyboard,Accessories,Hyderabad,4,6692,1485,Online
+2026-05-30,Keyboard,Accessories,Chennai,5,8610,2319,Retail Store
+2026-05-31,Tablet,Computers,Delhi,3,11736,3039,Online
+2026-05-31,Keyboard,Accessories,Hyderabad,3,5619,1343,Retail Store
+2026-05-31,Laptop,Computers,Delhi,4,220044,41505,Online
+2026-06-02,Mouse,Accessories,Delhi,3,3744,996,Online
+2026-06-02,Speaker,Audio,Hyderabad,4,16364,3498,Online
+2026-06-03,Monitor,Displays,Mumbai,5,76345,21524,Retail Store
+2026-06-04,Monitor,Displays,Bengaluru,4,52640,6849,Online
+2026-06-04,Headphones,Audio,Delhi,4,10608,1536,Retail Store
+2026-06-04,Webcam,Accessories,Hyderabad,3,9573,1979,Online
+2026-06-04,Keyboard,Accessories,Pune,1,1793,257,Online
+2026-06-05,Monitor,Displays,Chennai,2,26700,6364,Retail Store
+2026-06-06,Speaker,Audio,Bengaluru,5,18125,4140,Online
+2026-06-07,Webcam,Accessories,Chennai,2,6664,1473,Online
+2026-06-07,Keyboard,Accessories,Pune,3,5340,1510,Online
+2026-06-07,Keyboard,Accessories,Delhi,2,3468,697,Retail Store
+2026-06-07,Monitor,Displays,Pune,5,66645,13705,Online
+2026-06-07,Mouse,Accessories,Bengaluru,5,6010,1476,Online
+2026-06-09,Laptop,Computers,Mumbai,4,199768,42693,Online
+2026-06-09,Monitor,Displays,Chennai,3,42258,8400,Online
+2026-06-09,Webcam,Accessories,Delhi,5,16420,2564,Retail Store
+2026-06-10,Mouse,Accessories,Pune,2,2604,592,Retail Store
+2026-06-10,Headphones,Audio,Hyderabad,2,5390,837,Online
+2026-06-11,Monitor,Displays,Delhi,2,30876,5773,Online
+2026-06-12,Laptop,Computers,Delhi,3,143760,27976,Online
+2026-06-12,Mouse,Accessories,Bengaluru,4,4428,585,Online
+2026-06-13,Tablet,Computers,Mumbai,1,4064,857,Online
+2026-06-14,Webcam,Accessories,Mumbai,2,6764,1678,Retail Store
+2026-06-15,Keyboard,Accessories,Pune,2,3712,682,Online
+2026-06-15,Headphones,Audio,Mumbai,1,2260,297,Online
+2026-06-15,Webcam,Accessories,Pune,3,9573,1336,Online
+2026-06-16,Headphones,Audio,Chennai,3,7734,2253,Online
+2026-06-17,Tablet,Computers,Bengaluru,5,18870,3708,Retail Store
+2026-06-17,Headphones,Audio,Mumbai,5,12610,1907,Retail Store
+2026-06-18,Tablet,Computers,Bengaluru,2,8212,1343,Retail Store
+2026-06-18,Laptop,Computers,Mumbai,4,213396,32766,Retail Store
+2026-06-18,Tablet,Computers,Pune,3,12015,3270,Online
+2026-06-18,Webcam,Accessories,Chennai,5,16855,3842,Retail Store
+2026-06-19,Mouse,Accessories,Delhi,3,3240,439,Retail Store
+2026-06-19,Keyboard,Accessories,Chennai,3,5706,1168,Online
+2026-06-20,Keyboard,Accessories,Delhi,3,5466,1229,Retail Store
+2026-06-22,Monitor,Displays,Delhi,3,45876,12889,Online
+2026-06-24,Tablet,Computers,Mumbai,1,3706,595,Online
+2026-06-24,Speaker,Audio,Delhi,5,20535,5548,Online
+2026-06-24,Keyboard,Accessories,Mumbai,4,7760,1630,Retail Store
+2026-06-24,Laptop,Computers,Hyderabad,2,99718,15150,Online
+2026-06-25,Keyboard,Accessories,Bengaluru,4,7612,1705,Online
+2026-06-25,Tablet,Computers,Bengaluru,5,20385,3685,Retail Store
+2026-06-25,Speaker,Audio,Chennai,4,15732,4119,Online
+2026-06-25,Keyboard,Accessories,Chennai,3,5862,815,Online
+2026-06-26,Laptop,Computers,Pune,5,272835,60143,Online
+2026-06-26,Speaker,Audio,Bengaluru,1,3916,1089,Online
+2026-06-26,Mouse,Accessories,Hyderabad,1,1236,152,Retail Store
+2026-06-27,Tablet,Computers,Hyderabad,2,7900,1362,Retail Store
+2026-06-28,Webcam,Accessories,Chennai,2,5984,1356,Online
+2026-06-28,Speaker,Audio,Pune,5,19680,5460,Retail Store
+2026-06-29,Tablet,Computers,Bengaluru,4,14792,2447,Online
+2026-06-30,Headphones,Audio,Chennai,5,12595,2245,Retail Store
